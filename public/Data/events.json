@@ -1,0 +1,26 @@
+[
+  {
+    "category": "23rd March 2022",
+    "title": "You can do more with AI.",
+    "src": "/event_01.jpg",
+    "content": "AI is transforming the way we work and live. Learn how to build real-world AI projects."
+  },
+  {
+    "category": "20th March 2022",
+    "title": "Enhance your productivity.",
+    "src": "/event_02.jpg",
+    "content": "Boost your efficiency with the latest tools and workflows for maximum productivity."
+  },
+  {
+    "category": "15th March 2022",
+    "title": "Launching the new Apple Vision Pro.",
+    "src": "/event_03.jpg",
+    "content": "Experience the future of mixed reality with Apple Vision Pro. A game-changer in tech."
+  },
+  {
+    "category": "10th March 2022",
+    "title": "Maps for your iPhone 15 Pro Max.",
+    "src": "/event_04.jpg",
+    "content": "Discover the most advanced mapping technology designed exclusively for iPhone 15 Pro Max."
+  }
+]
