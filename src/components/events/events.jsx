@@ -2,6 +2,8 @@
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
 import { Card, Carousel } from "../ui/apple-cards-carousel";
+import { cn } from "../../../lib/utils";
+
 export function Events() {
   const [events, setEvents] = useState([]);
 
