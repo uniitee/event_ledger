@@ -2,14 +2,12 @@
 import Image from "next/image";
 import React, { useEffect, useState } from "react";
 import { Card, Carousel } from "../ui/apple-cards-carousel";
-import { cn } from "../../../lib/utils";
-
 export function Events() {
   const [events, setEvents] = useState([]);
 
   useEffect(() => {
     // Fetch JSON data
-    fetch("/data/events.json")
+    fetch("/Data/events.json")
       .then((res) => res.json())
       .then((data) => setEvents(data))
       .catch((err) => console.error("Failed to load events:", err));
